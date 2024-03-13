@@ -1,0 +1,8 @@
+
+
+Okay so a lot of the issues have been solved.
+
+Now the game plays
+I need to add a score keeping feature
+Change the dictionary cause the words are not common words
+and the AI works

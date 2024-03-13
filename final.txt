@@ -1,0 +1,13 @@
+Now that I'm actually done, I can say that I wasted too much time writing this code BUT
+I am proud of my efforts.
+
+The game I executed is Hangman.
+The game works exactly as the actual Wikipedia definition of Hangman.
+
+In my game, when the user chooses to play one round of the game. The user first inputs a word and the computer (AI)
+would randomly use letters.
+Then the comp inputs a word (hidden) and the user is required to guess letters.
+After that the score keeping takes place.
+
+Users can play,load and save the game. 
+This game has potential to become better but I'm done for now.

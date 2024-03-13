@@ -1,0 +1,27 @@
+﻿
+Name : Diya Gangwar
+
+I decided to make Hangman. 
+
+It was a struggle. 
+
+But it’s done, to some extent.
+
+The game functions exactly like Hangman (as described by Wikipedia) is supposed to work except :
+1. Limbs do not get added to the structure when a player inputs wrong letter
+2. For some reason the game breaks if the word is not 5 letters (I have no idea why it does that)
+
+Other than that it works.
+Also the functions for the AI to play are in the file but I haven't added the part where the AI guesses a word because of the
+previously mentioned issue about only words of lenght 5 working
+
+I’m the only person in my team. I’m also not sure what I’m supposed to be writing in this starter.txt file.
+
+Oh the rules:
+
+1. One user inputs a word which is hidden from the other user 
+2. Then the second user guesses letters and tries to guess the word.
+3. Every time the second user guesses a letter that belongs to the hidden word, that letter goes to the position on the hidden word 
+4. If the second guesses a letter that does not belong to the hidden word, a limb gets added to the hangman (there are 8 body parts that get added)
+5. If the second user guesses the word before all the body parts appear on the hangman, the second user gets a point
+6. Otherwise the first user gets a point.
